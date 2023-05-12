@@ -1,0 +1,18 @@
+.site-logo {
+    color: #353539;
+}
+
+.site-logo-head {
+    font-size: 9em;
+    position: absolute;
+    top: -21px;
+    font-weight: bold;
+}
+
+.site-logo-body {
+    font-size: 1.7em;
+    font-weight: bold;
+    letter-spacing: 0.01em;
+    text-shadow: 2px 0 0 currentColor;
+    padding-left: 53px;
+}

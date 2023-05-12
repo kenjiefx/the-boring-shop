@@ -1,3 +1,2 @@
-<main>
-    <?php component('HelloScratch'); ?>
-</main>
+<?php component('Header'); ?>
+<?php component('HomePageBanner'); ?>
