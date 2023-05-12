@@ -1,0 +1,23 @@
+{
+  "name": "the-boring-shop",
+  "version": "1.0.0",
+  "description": "The Boring Shop - A Fake Store",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenjiefx/the-boring-shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenjiefx/the-boring-shop/issues"
+  },
+  "homepage": "https://github.com/kenjiefx/the-boring-shop#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "kenjiefx/the-boring-shop",
+    "description": "The Boring Shop - A Fake Store",
+    "type": "project",
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "Kenjiefx\\TheBoringShop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kenjiefx",
+            "email": "terradoflex@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "kenjiefx/scratch-php": "dev-main",
+        "kenjiefx/strawberry-scratch": "dev-main",
+        "kenjiefx/venta-css": "dev-main"
+    }
+}

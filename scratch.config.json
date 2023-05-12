@@ -1,0 +1,11 @@
+{
+    "theme": "boring",
+    "exportDir": "\/dist",
+    "build": {
+        "useRandomAssetsFileNames": true
+    },
+    "extensions": {
+        "Kenjiefx\\VentaCSS\\VentaCSS":{},
+        "Kenjiefx\\StrawberryScratch\\StrawberryJS":{}
+    }
+}
