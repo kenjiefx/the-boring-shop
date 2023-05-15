@@ -7,3 +7,7 @@ body, input, textarea {
 .clickable {
 	cursor: pointer;
 }
+
+.mx-content {
+	width: max-content;
+}
